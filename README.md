@@ -16,7 +16,7 @@ A Colorado Board of Elections employee requested an audit of a recent congressio
 - Software: Python 3.9.7, Visual Studio Code, 1.59.0
 
 ## Results 
-![alt text](https://github.com/thehatch4815162342/Election_Analysis/blob/main/Election%20Results.png?raw=true)
+
 
 
 The analysis of the election showed that:
