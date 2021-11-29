@@ -17,6 +17,8 @@ A Colorado Board of Elections employee requested an audit of a recent congressio
 
 ## Results 
 ![alt text](https://github.com/thehatch4815162342/Election_Analysis/blob/main/Election%20Results.png?raw=true)
+
+
 The analysis of the election showed that:
  -There were 369,711 votes cast
  -The candidates were:
