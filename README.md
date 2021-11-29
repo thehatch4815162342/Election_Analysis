@@ -20,22 +20,22 @@ A Colorado Board of Elections employee requested an audit of a recent congressio
 
 
 The analysis of the election showed that:
- -There were 369,711 votes cast
- -The candidates were:
+  -There were 369,711 votes cast
+  -The candidates were:
     -Charles Casper Stockham 
     -Diana DeGette
     -Raymon Anthony Doane
--The candidates results were:
+  -The candidates results were:
     -Charles Casper Stockham received 23.0% of the vote and 85,213 total votes.
     -Diana DeGette received 73.8% of the vote and 272,892 total votes.
     -Raymon Anthony Doane received 3.1% of the vote and 11,606 total votes.
--The winner of the election was:
+  -The winner of the election was:
     -Diana DeGette, who received 73.8% of the vote and 272,892 total votes.
--The county results were:
+  -The county results were:
     -Jefferson with 10.5% of the vote and 38,855 total votes.
     -Denver with 82.8% of the vote and 272,892 total votes.
     -Arapahoe with 6.7% of the vote and 11,606 total votes.
--The county with the largest voter turnout was:
+  -The county with the largest voter turnout was:
      -Denver with 306,055 people from that county casting their vote.
 ## Summary
 The scipt used in this project could easily be applied to other elections, as well as be modified to find the statistics of other voter attributes such as race or gender.
